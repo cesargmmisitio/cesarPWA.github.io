@@ -3,13 +3,13 @@ html {
     --colContenidoFondo: #D5D8DC 
     ;
     --colPrimario: #D5D8DC ;
-    --colPrimarioFondo: #48C9B0   ;
+    --colPrimarioFondo: #48a0c9   ;
     --colActive: #4646462c;
     --colCampoSinFoco: gray;
     --colCampoFoco: #01579B;
     --colError: #b00020;
     --colCampoFondo: #F5F5F5;
-    --colCampoFondoHover: #EEEEEE;
+    --colCampoFondoHover: #ffffff;
     --colCampoFondoFocus: #E0E0E0;
     --colCheckOn: #0277BD;
     --colCheckFondo: #BDBDBD;
