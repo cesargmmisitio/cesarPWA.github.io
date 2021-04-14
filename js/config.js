@@ -20,7 +20,7 @@ class MiNav extends HTMLElement {
       <a href="historial.html">
         <span
           class="material-icons">
-          view agenda
+          view_agenda
         </span>
         Historial
       </a>
